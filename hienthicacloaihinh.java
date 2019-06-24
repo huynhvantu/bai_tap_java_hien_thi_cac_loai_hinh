@@ -50,6 +50,7 @@ public class hienthicacloaihinh {
 					}
 					System.out.println();
 				}
+			break;
 			case 4:
 				System.exit(4);
 			case 5:
